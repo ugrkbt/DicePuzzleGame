@@ -1,0 +1,84 @@
+﻿using UnityEngine;
+using System.Collections;
+using Assets;
+public class Level12 : MonoBehaviour {
+    public Transform obje;
+    public Transform zar;
+    public Transform bitis;
+    public Transform Alti;
+
+
+    void Awake()
+    {
+        Matris.MatrisBoyut(5, 9);
+        for (int x = 2; x < 4; x++)
+        {
+            for (int y = 1; y < 4; y++)
+            {
+                Matris.MatrisEkle(x, y);
+            }
+
+        }
+        Matris.MatrisEkle(2, 5);
+        Matris.MatrisEkle(2, 6);
+    }
+    void Start()
+    {
+
+        Invoke("bir", 0);
+        Invoke("iki", 0.1f);
+        Invoke("üc", 0.2f);
+        Invoke("dört", 0.3f);
+        Invoke("bes", 0.4f);
+        Invoke("altı", 0.5f);
+        Invoke("birx", 0);
+   
+  
+
+
+
+
+
+        Invoke("Bitis", 0.6f);
+        Invoke("Zar", 0.9f);
+
+
+    }
+    void Zar()
+    {
+        Instantiate(zar, new Vector3(0, 0, 0), Quaternion.Euler(0, 0, 0));
+    }
+    void bir()
+    {
+        Instantiate(obje, new Vector3(0, -0.625f, 0), Quaternion.identity);
+    }
+    void iki()
+    {
+        Instantiate(obje, new Vector3(0, -0.625f, -1), Quaternion.identity);
+    }
+    void üc()
+    {
+        Instantiate(obje, new Vector3(0, -0.625f, -2), Quaternion.identity);
+    }
+    void dört()
+    {
+        Instantiate(obje, new Vector3(-1, -0.625f, 0), Quaternion.identity);
+    }
+    void bes()
+    {
+        Instantiate(obje, new Vector3(-1, -0.625f, -1), Quaternion.identity);
+    }
+    void altı()
+    {
+        Instantiate(Alti, new Vector3(-1, -0.625f, -2), Quaternion.identity);
+    }
+    void birx()
+    {
+        Instantiate(obje, new Vector3(0, -0.625f, -4), Quaternion.identity);
+    }
+
+    void Bitis()
+    {
+        Instantiate(bitis, new Vector3(0, -0.625f, -5), Quaternion.identity);
+    }
+}

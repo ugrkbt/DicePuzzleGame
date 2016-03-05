@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0dc6c35df5976de4db2c6505a878ab9f
+timeCreated: 1456698264
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - obje: {instanceID: 0}
+  - zar: {fileID: 479914, guid: 5a560240d4bd2344d82d083f499e8a5c, type: 2}
+  - bitis: {instanceID: 0}
+  - asagi: {instanceID: 0}
+  - yukari: {instanceID: 0}
+  - alti: {instanceID: 0}
+  - ileri: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

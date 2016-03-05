@@ -1,0 +1,17 @@
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp\bin\x64\Debug\Assembly-CSharp.dll
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp\bin\x64\Debug\Assembly-CSharp.pdb
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp\bin\x64\Debug\Assembly-CSharp.pri
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp\obj\x64\Debug\x64\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp\obj\x64\Debug\x64\Debug\Assembly-CSharp.dll
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp\obj\x64\Debug\x64\Debug\Assembly-CSharp.pdb
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp\obj\x64\Debug\x64\Debug\priconfig.xml
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp\obj\x64\Debug\x64\Debug\priconfig.xml.intermediate
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp\obj\x64\Debug\x64\Debug\layout.resfiles
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp\obj\x64\Debug\x64\Debug\layout.resfiles.intermediate
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp\obj\x64\Debug\x64\Debug\resources.resfiles
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp\obj\x64\Debug\x64\Debug\resources.resfiles.intermediate
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp\obj\x64\Debug\x64\Debug\pri.resfiles
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp\obj\x64\Debug\x64\Debug\pri.resfiles.intermediate
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp\obj\x64\Debug\x64\Debug\qualifiers.txt
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp\obj\x64\Debug\x64\Debug\qualifiers.txt.intermediate
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp\obj\x64\Debug\x64\Debug\MultipleQualifiersPerDimensionFound.txt

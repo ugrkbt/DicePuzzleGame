@@ -1,0 +1,17 @@
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp-firstpass\bin\x64\Debug\Assembly-CSharp-firstpass.dll
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp-firstpass\bin\x64\Debug\Assembly-CSharp-firstpass.pdb
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp-firstpass\bin\x64\Debug\Assembly-CSharp-firstpass.pri
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\Assembly-CSharp-firstpass.dll
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\Assembly-CSharp-firstpass.pdb
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\priconfig.xml
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\priconfig.xml.intermediate
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\layout.resfiles
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\layout.resfiles.intermediate
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\resources.resfiles
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\resources.resfiles.intermediate
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\pri.resfiles
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\pri.resfiles.intermediate
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\qualifiers.txt
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\qualifiers.txt.intermediate
+D:\Belgeler\GitHub\Dice-Puzzle-Game\Dice\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\MultipleQualifiersPerDimensionFound.txt

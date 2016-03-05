@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Sahneler/AnaMen\xFC.unity"
+  isLoaded: 1
+  isActive: 1
